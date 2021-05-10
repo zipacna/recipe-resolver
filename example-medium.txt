@@ -1,0 +1,21 @@
+# This is the medium Example Recipe for the Resolver (based on the Recipe for NanoCarbon Alloy in Astroneer)
+NanoCarbon Alloy
+    Steel
+    Titanium Alloy
+    Helium
+Steel
+    Iron
+    Carbon
+    Argon
+Titanium Alloy
+    Titanium
+    Graphene
+    Nitrogen
+
+Graphene
+    Graphite
+    Hydrazine
+Hydrazine
+    Ammonium
+    Ammonium
+    Hydrogen

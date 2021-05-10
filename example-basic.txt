@@ -1,0 +1,11 @@
+# This is the basic Example Recipe for the Resolver (based on the Recipe for Graphene in Astroneer)
+Graphene
+    Graphite
+    Hydrazine
+Hydrazine
+    Ammonium
+    Ammonium
+    Hydrogen
+
+    
+	
